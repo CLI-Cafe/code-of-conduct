@@ -1,28 +1,9 @@
-# "Archverse Community" Code of Conduct
+<p align="center"><img src="command line cafe.png" width=128px></p>
+  
+# <p align="center">Command Line Cafe Code of Conduct</p>
 
-### 1. Definitions:
-
-- "Archverse": The Archverse Discord server, and/or any server that it might get renamed to or merged into in the
-  future.
-
-- "Server": The same thing as Archverse
-
-- "We": The combined group of people in the administration and moderation team
-
-- "Community": The members, admins, moderation team, bots and apps combined
-
-- "Code Of Conduct": This document
-
-- "You": The individual and/or entity and/or organization that's behind the account and/or communicating
-  through it
-
-- "Messages": Any text, audio, video, image, and/or other content or data sent by your account
-
-- Your content: Your username, nickname, profile picture, bio, your messages in this server, and/or messages sent to
-  members of this server in Direct Messages (DMs)
-
-### 2. Disclaimer:
-By participating in the Archverse community, you agree to abide by this Code of Conduct and any future updates to it. We
+### 1. Disclaimer:
+By participating in the Command Line Cafe community, you agree to abide by this Code of Conduct and any future updates to it. We
 reserve the right to modify these terms at any time. While we will strive to communicate significant changes, continued
 participation in the community after changes are posted will constitute your acceptance of the revised terms.
 
@@ -30,14 +11,14 @@ Additionally, you agree to comply with [Discord’s Terms of Service](https://di
 Guidelines](https://discord.com/guidelines). Violations of the above may result in suspension and/or permanent
 removal from the community.
 
-### 3. Age Requirements
+### 2. Age Requirements
 
 By joining, you confirm that you are old enough to use discord as per their terms of service. The minimum age is 13, but
 it can be up to 16 in some places. You can find the official list
 [here.](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) 
 By meeting the age requirements, you are not granted the rights to use restricted/NSFW content on the community, even as a joke, due to the diverse community age range.
 
-### 4. Discrimination
+### 3. Discrimination
 
 We do not tolerate any form of discrimination based on a person's:
 
@@ -54,7 +35,7 @@ We do not tolerate any form of discrimination based on a person's:
 - 11\. Other aspects of their identity.
 
 
-### 5. Community Rules
+### 4. Community Rules
 
 **By joining, you acknowledge that you abide to the following rules:**
 
@@ -88,11 +69,11 @@ We do not tolerate any form of discrimination based on a person's:
   You may link your issue thread, but do not spam it in other channels.
   Trolling, malicious behaviour, and/or shitposting in the support channels is forbidden.
   You may not provide or ask for remote support via SSH, Anydesk, Teamviewer or any other form. By extension, you may not take support to DMs.
-  
+
 ### Last words:
 
 You may report any rule breaking situation and the infractors will be sanctioned properly. 
-You may notify staff and/or the moderation team by opening a ticket with the `/tickets open` command.
+You may notify staff and/or the moderation team by opening a ticket with the `/ticket open` command.
 **Respect the privacy of others.**
 
 # You may not attempt to bypass or find loopholes to the aforementioned rules.
@@ -102,8 +83,8 @@ You may notify staff and/or the moderation team by opening a ticket with the `/t
 ## Contributing:
 
 This Code Of Conduct is written by humans. You may contribute to it by creating an issue tracker/pull request on
-https://github.com/Arch-Verse/Arch-Verse-Code-Of-Conduct/tree/master
+https://github.com/CLI-Cafe/code-of-conduct/
 
 <!-- this is never gonna render in the readme, so here i go: -->
-<!-- made and written with love on neovim. Original document by @ingenarel, revision by hazelshantz -->
+<!-- made and written with love on neovim. Original document by @ingenarel, revisions by hazelshantz and djinzi -->
 <!-- pretty please don't remove this -->
